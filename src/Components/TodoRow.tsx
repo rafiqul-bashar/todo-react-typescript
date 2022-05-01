@@ -18,7 +18,7 @@ const TodoRow = ({
     <div
       className={`
     flex w-full p-4 mb-2 justify-between items-center
-   ${isDone ? "bg-gray-400 " : "bg-green-300"}
+   ${isDone ? "bg-gray-400 " : "bg-green-200"}
   `}
     >
       <p
