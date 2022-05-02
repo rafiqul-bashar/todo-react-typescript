@@ -1,4 +1,6 @@
 # This is a simple todo app with react and typescript
+## Live site link https://todo-react-typescript-one.vercel.app
+
 
 To get stared clone this repository or download zip and extract the files.
 
